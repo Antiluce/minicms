@@ -1,0 +1,1 @@
+[28-May-2023 16:54:40 UTC] PHP Fatal error:  Cannot declare class PagesController, because the name is already in use in /home4/antoniasomevps2/minicms/app/Http/Controllers/PagesController.php on line 8
